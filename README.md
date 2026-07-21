@@ -8,7 +8,7 @@
 - 🤖 Interested in Agentic AI, RAG Systems, and LLM Applications
 - 🌱 Currently learning Full-Stack Development and Advanced DSA
 - 🏋️ Fitness enthusiast who enjoys strength training
-- 🎯 Goal: Become an AI Engineer at a top product company
+
 
 ## 🛠️ Tech Stack
 
