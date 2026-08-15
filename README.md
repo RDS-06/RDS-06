@@ -21,7 +21,7 @@
 ## 📌 Projects
 
 - 🩺 AI Smart Patient Triage System
--💰 AI Personal Finance Assistant
+- 💰 AI Personal Finance Assistant
 - 📄 RAG-based Medical Document Assistant
 
 ## 📫 Connect with Me
